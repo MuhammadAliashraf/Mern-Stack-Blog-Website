@@ -10,6 +10,7 @@ LINK_URL=[https://full-stack-blog-app-murex.vercel.app/](https://full-stack-blog
 ## **Features**
 
  - **User Authentication:** Implement user authentication to allow users to register, login, and logout securely.
+ - - **Change Password:** Provide an option for users to Change their Password if needed.
  - **Create Blog Posts:** Users can create new blog posts, including titles, content, and optional images.
  - **Read Blog Posts:** Display a list of blog posts on the homepage, allowing users to read the full post by clicking on them.
  - **Update Blog Posts:** Allow users to edit their own blog posts, including modifying the title, content, and images.
