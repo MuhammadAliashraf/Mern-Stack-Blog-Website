@@ -73,27 +73,8 @@ Create a .env file in the root directory and add necessary environment variables
 **Contributing**
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Note for Potential Buyers
-
-Hello,
-
-Thank you for your interest in purchasing the blog website developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
-
-### Support:
-
-I'm committed to providing support to ensure a smooth experience with the website. If you encounter any issues or have questions about the functionality, feel free to reach out to me. I'll do my best to assist you and resolve any issues promptly.
-
-### Code:
-
-Upon purchase, you'll receive access to both the client-side and server-side code of the project. This includes the frontend code developed with React.js as well as the backend code built using Node.js and Express.js. You'll also receive instructions on how to set up and run the project locally.
-
-### Additional Assistance:
-
-In addition to providing the code, I'm available to offer guidance on customization, deployment, or any other aspect of the project. Whether you need help modifying the website to suit your specific requirements or deploying it to a production environment, I'm here to assist you every step of the way.
-
 ### Contact:
-
-If you have any questions or would like to discuss further details, please don't hesitate to contact me. You can reach me via whatsapp at **+92 0306-2767-542**  or through [GitHub](https://github.com/MuhammadAliashraf). 
+If You Need a Code of this website contact me vai whatsapp **+92 0306-2767-542**
 
 Looking forward to working with you!
 
