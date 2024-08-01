@@ -73,10 +73,8 @@ Create a .env file in the root directory and add necessary environment variables
 **Contributing**
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-### Contact:
-If You Need a Code of this website contact me vai whatsapp **+92 0306-2767-542**
-
-Looking forward to working with you!
+#Source Code is available on the given link below:
+https://www.patreon.com/posts/blog-website-109222005?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 Best regards,
 Muhammad Ali 
