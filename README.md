@@ -74,7 +74,9 @@ Create a .env file in the root directory and add necessary environment variables
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 #Source Code is available on the given link below:
-https://www.patreon.com/posts/blog-website-109222005?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+The source code is paid. If you're interested, you can reach out via email at alijutt030627@gmail.com
+
+The price is flexible—you can pay any amount greater than $0.
 
 Best regards,
 Muhammad Ali 
